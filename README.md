@@ -1,0 +1,2 @@
+# megasena
+Simulação Mega Sena
